@@ -30,17 +30,17 @@ In this repository, I will be saving useful **commands**, **shortcuts**, and **s
    ```
 ---
 
-# 🔧 Customization
+## 🔧 Customization
 Feel free to modify any of the scripts to fit your workflow or Linux setup. Contributions and suggestions are welcome!
 
 ---
 
-# 📝 License
+## 📝 License
 This repository is licensed under the MIT License. Use these scripts freely for any project, personal or professional.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 - It's Absolutely Me [PraveenTech005](https://github.com/PraveenTech005)
 
 ### Happy scripting! 😊
