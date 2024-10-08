@@ -30,10 +30,8 @@ sudo apt upgrade
 ---
 
 ## ⚙️ Setup
-- Clone the repo:
-
+- Clone/download the repo, then move inside the directory using
 ```bash
-git clone https://github.com/<your-username>/<repo-name>
 cd <repo-name>
 ```
 - Place the script in your desired directory (e.g., ~/Scripts).
