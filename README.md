@@ -43,4 +43,4 @@ This repository is licensed under the MIT License. Use these scripts freely for 
 # 👨‍💻 Author
 - It's Absolutely Me [PraveenTech005](https://github.com/PraveenTech005)
 
-# Happy scripting! 😊
+### Happy scripting! 😊
