@@ -11,19 +11,25 @@ sudo apt upgrade
 
   It is a hassle, right? If you're like me and often forget (or you're just lazy 😅), this script will help you keep your system up-to-date effortlessly!
 
-# 📋 Features
+---
+
+## 📋 Features
 - Automates the process of running apt update and apt upgrade on a weekly basis.
 - Keeps track of the last update date.
 - Displays system info with neofetch after every update.
 - Works right from your .zshrc, so your updates happen every time you open a terminal session.
 
-# 🛠 How It Works
+---
+
+## 🛠 How It Works
 - It checks if a file named lastupdated.txt exists. If not, it creates one.
 - The script compares today's date with the last update date and ensures updates happen every 7 days.
 - If it's time, the script runs sudo apt update && sudo apt upgrade.
 - Lastly, it clears the terminal and runs neofetch to display your distro details.
 
-# ⚙️ Setup
+---
+
+## ⚙️ Setup
 - Clone the repo:
 
 ```bash
@@ -46,11 +52,15 @@ cd "$cwd"
 ```
 - Enjoy automatic updates!
 
-# 📜 License
+---
+
+## 📜 License
     This project is licensed under the MIT License. Feel free to fork, modify, and use it in your own projects!
 
-# Author 
-- It's Absolutely Me [PraveenTech005](https://github.com/PraveenTech005)
+---
+
+## Author 
+  It's Absolutely Me [PraveenTech005](https://github.com/PraveenTech005)
   
 Feel free to contribute or drop any suggestions! 😊
 
