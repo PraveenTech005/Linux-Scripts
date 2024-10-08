@@ -32,7 +32,7 @@ sudo apt upgrade
 ## ⚙️ Setup
 - Clone/download the repo, then move inside the directory using
 ```bash
-cd <repo-name>
+cd <dir-name>
 ```
 - Place the script in your desired directory (e.g., ~/Scripts).
 - Add the following lines to your .zshrc to execute the script every time a terminal session starts:
